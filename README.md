@@ -1,4 +1,4 @@
-![Ahzam Shahnil]()
+//![Ahzam Shahnil]()
 
 
 # BMI Calculator 💪
@@ -29,6 +29,6 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner]()
+//![End Banner]()
 # bmi-calculator-flutter
 
