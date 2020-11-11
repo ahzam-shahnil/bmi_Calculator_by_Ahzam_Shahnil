@@ -1,0 +1,31 @@
+name: bmi_calculator
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flare_splash_screen: ^3.0.1
+  font_awesome_flutter: ^8.10.0
+  cupertino_icons: ^0.1.2
+  flutter_launcher_icons: ^0.8.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  image_path: "images/bmi.png" 
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/bmi.png
+    - images/loader.flr2d
